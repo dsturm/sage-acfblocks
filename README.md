@@ -8,7 +8,7 @@ _Note that this is still in a proof of concept stage_.
 
 ### Installation
 
-1. Install the package in yor theme
+1. Install the package in your theme
 
     ```sh
     composer config repositories.sage-acfblocks vcs https://github.com/generoi/sage-acfblocks.git
